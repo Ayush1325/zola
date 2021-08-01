@@ -29,3 +29,7 @@ shell.nix
 # vim temporary files
 **/.*.sw*
 .swp
+
+# flatpak
+flatpak/.flatpak-builder/
+flatpak/build-dir
